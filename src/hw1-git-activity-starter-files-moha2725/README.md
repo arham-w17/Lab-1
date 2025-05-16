@@ -17,7 +17,7 @@ You will now be tasked with ensuring the two methods you wrote are
 fully correct, and you will get some extra practice working with git.
 
 Tip: If you had trouble implementing these methods in Java, you might start
-by first implementing them in Python, then translating your code into Java line-by-line.
+by first implementing them in Python then translating your code into Java line-by-line.
 As you become more comfortable with the syntax of Java, it will get easier to directly write
 your code.
 
@@ -88,3 +88,6 @@ What is the runtime of your solution for the Multiples problem, in terms of `n`?
 We aren't testing your code for efficiency in this assignment, but if your solution is linear in `n`, then
 we encourage you to think about how it could be made more efficient. This is good practice for
 these kinds of technical interview questions!
+
+
+****MARKUS SUBMIT TEST****
